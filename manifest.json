@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 3,
+  "name": "Glass To-Do List",
+  "version": "1.0",
+  "description": "A modern glassmorphism styled to-do list.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "permissions": ["storage"]
+}
