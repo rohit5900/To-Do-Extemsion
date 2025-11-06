@@ -40,6 +40,8 @@ Click Load unpacked.
 Select the folder of this project.
 
 The extension will now appear in your browser toolbar ✅
+
+
 📜 License
 
 This project is licensed under the MIT License.
